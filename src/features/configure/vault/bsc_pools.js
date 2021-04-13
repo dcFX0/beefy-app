@@ -2346,7 +2346,7 @@ export const bscPools = [
     assets: ['SLME', 'BNB'],
     callFee: 0.5,
     addLiquidityUrl:
-      'https://slime.finance/swap-slimeeees#/add/BNB/0x4fCfA6cC8914ab455B5b33Df916d90BFe70b6AB1',
+      'https://dex.slime.finance/#/add/ETH/0x4fCfA6cC8914ab455B5b33Df916d90BFe70b6AB1',
     buyTokenUrl:
       'https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4fCfA6cC8914ab455B5b33Df916d90BFe70b6AB1',
   },
